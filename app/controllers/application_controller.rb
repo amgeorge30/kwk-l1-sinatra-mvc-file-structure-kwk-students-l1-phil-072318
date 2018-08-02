@@ -6,6 +6,6 @@ class ApplicationController < Sinatra::Base
   end
 
   get "/" do
-  	erb :index
+  	erb :movieList
   end
 end
