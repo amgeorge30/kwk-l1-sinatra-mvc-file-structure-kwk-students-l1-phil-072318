@@ -175,4 +175,8 @@ movie_list = {
       end
       end
   end
- superhero_list("List","Genre","Mood")
+ superhero_list("List","Genre","Mood") 
+
+
+
+Collapse 
